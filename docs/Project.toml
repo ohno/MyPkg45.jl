@@ -1,0 +1,3 @@
+[deps]
+MyPkg45 = "947c5cbc-0748-47a6-b5c8-9f761856b5ad"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
